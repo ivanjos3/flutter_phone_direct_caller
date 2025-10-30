@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.yanisalfian.flutterphonedirectcaller
         pluginClass: FlutterPhoneDirectCallerPlugin
-      ios:
-        pluginClass: FlutterPhoneDirectCallerPlugin
